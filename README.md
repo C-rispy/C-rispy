@@ -1,9 +1,11 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on my studies in Finance and Computer Science
-- 🌱 I’m currently learning R for Data Science and Math for ML
-
-
-
+# Thierry Mathys
+## About Me
+Finance and Data geek, who is currently studying Finance and Computer Science at the University of Zurich. Solid skills in [value investing and derivative risk management](www.linkedin.com/in/thierry-mathys-969a0728b), while trying to improve my programming and data analysis skills.
+## Main Skills
+### Solid knowledge
+[![My Skills](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=r,github,postgres)](https://skillicons.dev)
+## Roadmap
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6851b30b8a05232d3eb9c3ef?variant=dark)](https://roadmap.sh)
