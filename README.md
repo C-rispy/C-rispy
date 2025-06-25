@@ -8,5 +8,5 @@ Finance and Data nerd, who is currently studying Finance and Computer Science at
 [![My Skills](https://skillicons.dev/icons?i=r,github,postgres)](https://skillicons.dev)
 ## Roadmap
 
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6851b30b8a05232d3eb9c3ef?variant=dark)](https://roadmap.sh)
 [My CV](https://drive.google.com/file/d/1ClUPnwPqZDGyMm-4wOtIoPYpkJ_dETND/view?usp=drive_link)
