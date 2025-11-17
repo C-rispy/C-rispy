@@ -6,7 +6,7 @@ I am currently pursuing a BSc in mathematics at ETH Zurich and have previously c
 ## :orange_book: Languages and Tools
 ### Solid knowledge
 [![My Skills](https://skillicons.dev/icons?i=py,latex,obsidian)](https://skillicons.dev)
-### Learning
+### Basic Knowledge
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,r,sklearn,postgres,java,git,bash,ubuntu)](https://skillicons.dev)
 
 ## 📈 Currently Learning
