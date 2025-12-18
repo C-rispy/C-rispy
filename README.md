@@ -10,10 +10,9 @@ I am currently pursuing a BSc in mathematics at ETH Zurich and have previously c
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,r,sklearn,postgres,java,git,bash,ubuntu)](https://skillicons.dev)
 
 ## 📈 Currently Learning
-- Software Design
+- Systems Programming
 - Real Analysis
 - Pandas
 - ML Methods in Python
-- Statistics in R
 ---
 [My CV (German)](https://drive.google.com/file/d/1_QPjgCDawIDjArabvFiT4Aatb2osaXkD/view?usp=sharing)
